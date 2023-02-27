@@ -10,3 +10,8 @@ updata house-prices-advanced-regression-techniques
 23.02.26\
 update 逻辑斯蒂回归\
 updata 相关性矩阵热图
+
+--- 
+23.02.27\
+updata 独热编码
+
