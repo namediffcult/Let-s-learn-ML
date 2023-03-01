@@ -15,3 +15,8 @@ updata 相关性矩阵热图
 23.02.27\
 updata 独热编码
 
+---
+23.03.01\
+updata 岭回归\
+updata 交叉验证\
+updata 线性回归
